@@ -1,0 +1,33 @@
+/* index.css */
+
+/* Reset default margin and padding */
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set background color */
+  body {
+    background-color: #f0f2f5; /* Light gray background */
+  }
+  
+  /* Add gradient background */
+  body {
+    background-image: linear-gradient(120deg, #2980b9, #6dd5fa); /* Gradient from blue to light blue */
+  }
+  
+  /* Center content vertically and horizontally */
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+  }
+  
+  /* Add some styles to the main content */
+  .content {
+    text-align: center;
+    color: #fff; /* White text color */
+    font-size: 24px;
+  }
+  
