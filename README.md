@@ -1,3 +1,9 @@
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/username/repository/CI)
-![Coverage](https://img.shields.io/codecov/c/github/username/repository)
-![Dependencies](https://img.shields.io/david/username/repository)
+## Badges
+
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/xryv/electron_react_boilerplate/CI?style=flat-square)
+![Dependencies](https://img.shields.io/david/xryv/electron_react_boilerplate?style=flat-square)
+![DevDependencies](https://img.shields.io/david/dev/xryv/electron_react_boilerplate?style=flat-square)
+![License](https://img.shields.io/github/license/xryv/electron_react_boilerplate?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/xryv/electron_react_boilerplate?style=flat-square)
+
+
